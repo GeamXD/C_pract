@@ -1,17 +1,31 @@
-#include <stdio.h>
+#include <stdio>
 
 /**
-  *main - prints in reverse
+  *main - prints hash of f and c
   *
   *Return: 0 if successful
   */
 
 int main(void)
 {
-	char x = 'X';
-	char m = 'M';
-	char l = 'L';
+	printf("######\n");
+	printf("#\n");
+	printf("#\n");
+	printf("#####\n");
+	printf("#\n");
+	printf("#\n");
+	printf("#\n");
+	printf("\n");
 
-	printf("The reverse of XML is: %c%c%c\n", l, m, x);
-	return (0);
+	printf("\n");
+
+	printf(" ######\n");
+	printf("##    ##\n");
+	printf("#\n");
+	printf("#\n");
+	printf("#\n");
+	printf("#\n");
+	printf("#\n");
+	printf("##    ##\n");
+	printf(" ######\n");
 }
