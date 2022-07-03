@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 
 /**
   *main - prints hash of f and c
