@@ -1,2 +1,2 @@
-# C_pract
-Taking exercises on C inorder to get better
+# SELF GUIDE TO BEING FLUENT IN C PROGRAMMING
+
